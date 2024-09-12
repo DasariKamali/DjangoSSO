@@ -2,7 +2,7 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SECRET_KEY = 'django-insecure-@_7hk-63fs9rh0ekufe&%=x2pmuf8-7fifpft4!qtnv)s#66^)'
+SECRET_KEY = ''
 
 DEBUG = True
 
